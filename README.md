@@ -1,21 +1,3 @@
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O013K68)
-
-<a href="https://slack.peladonerd.com/"><img src="https://slack.peladonerd.com/badge.svg"></a>
-
-# Pelado Nerd repo
-
-<img src="./assets/peladonerd.png" width="100"/>
-
-Este es un repo donde subo todo el código que uso para los videos de mi [canal en youtube](https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g). Voy a tratar de mantenerlo actualizado y con toda la documentación que pueda, pero no prometo nada.
-
-## Contribuciones
-
-Como siempre, cualquier contribución es bienvenida, simplemente forkeá este repo y haceme una PR.
-
-## Listado de videos que tienen archivos hasta ahora:
-
-Si el nombre del capítulo no tiene link, es porque no necesité postear ningún archivo.
-
 1. Docker
    1. Introducción a Docker/ [video](https://youtu.be/vjnOIE-CwMU)
    2. Imágenes / [video](https://youtu.be/a8sf54TCRN4)
@@ -73,13 +55,13 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    30. [istio](./kubernetes/30) / [video](https://youtu.be/ofJ5swfP2kQ)
    31. [Bootstrap Apps en Kubernetes](./kubernetes/31) / [video](https://youtu.be/ZjnMpMXmKZQ)
    32. [LimitRange](./kubernetes/32) / [video](https://youtu.be/2VbJioZ-UJo)
-   34. [Helm 2](./kubernetes/34) / [video](https://youtu.be/jScW2XaS8uI)
-   35. [Curso Kubernetes Completo 2021](./kubernetes/35) / [video](https://youtu.be/DCoBcpOA7W4)
-   36. [external-dns](./kubernetes/36) / [video](https://youtu.be/M5588owHvV8)
-   37. [MetalLB](./kubernetes/37) / [video](https://youtu.be/ZuRrpD3hL5I)
-   38. [crossplane](./kubernetes/38) / [video](https://youtu.be/dWbEvHOtljg)
-   39. [fluent-bit](./kubernetes/39) / [video](https://youtu.be/bwoxefs057g)
-   40. [cluster-autoscaler](./kubernetes/40) / [video](https://youtu.be/BpEia0P1jMo)
+   33. [Helm 2](./kubernetes/34) / [video](https://youtu.be/jScW2XaS8uI)
+   34. [Curso Kubernetes Completo 2021](./kubernetes/35) / [video](https://youtu.be/DCoBcpOA7W4)
+   35. [external-dns](./kubernetes/36) / [video](https://youtu.be/M5588owHvV8)
+   36. [MetalLB](./kubernetes/37) / [video](https://youtu.be/ZuRrpD3hL5I)
+   37. [crossplane](./kubernetes/38) / [video](https://youtu.be/dWbEvHOtljg)
+   38. [fluent-bit](./kubernetes/39) / [video](https://youtu.be/bwoxefs057g)
+   39. [cluster-autoscaler](./kubernetes/40) / [video](https://youtu.be/BpEia0P1jMo)
 
 4. Varios
    1. [Creá tu sitio con SSL gratis con Docker y Let's encrypt](./varios/1) / [video](https://youtu.be/S2YFqf4L7l8)
@@ -108,35 +90,35 @@ Si el nombre del capítulo no tiene link, es porque no necesité postear ningún
    7. [DuckDNS](./v2m/7) / [video](https://youtu.be/MLjKbake8HM)
    8. [Rsnapshot](./v2m/8) / [video](https://youtu.be/gxJqpBsPseM)
    9. [Cups](./v2m/9) / [video](https://youtu.be/_O2ik-JPq8Y)
-   11. [kubectl tips](./v2m/11) / [video](https://youtu.be/caHsjOmrr2s)
-   12. [kind](./v2m/12) / [video](https://youtu.be/8Wjzpywdjyc)
-   13. [Telepresence](./v2m/13) / [video](https://youtu.be/MipT55DJFec)
-   14. [Diferencia entre RUN, CMD y ENTRYPOINT](./v2m/14) / [video](https://youtu.be/6ZnecM3ipu4)
-   15. [MySQL Operator](./v2m/15) / [video](https://youtu.be/2i5t6bfgWvE)
-   16. [Supervisord](./v2m/16) / [video](https://youtu.be/mfXnqHRT8hI)
-   17. [Popeye](./v2m/17) / [video](https://youtu.be/xKGPN_47qxM)
-   18. [Init Containers](./v2m/18) / [video](https://youtu.be/a03oHbGUef4)
-   19. [Netdata](./v2m/19) / [video](https://youtu.be/bGyMLNRBlQ0)
-   20. [Matrix](./v2m/20) / [video](https://youtu.be/ZiVQalt5xhk)
-   21. [Kubernetes Dashboard](./v2m/21) / [video](https://youtu.be/B5r-_HHX31s)
-   22. [Netatalk / TimeMachine opensource](./v2m/22) / [video](https://youtu.be/LhlTG8LJ89Q)
-   23. [WireGuard](./v2m/23) / [video](https://youtu.be/G_Pv9XEzfUY)
-   24. [Cronopete](./v2m/24) / [video](https://youtu.be/DywhgMht2jQ)
-   25. [Vsftpd](./v2m/25) / [video](https://youtu.be/y9sPUF7vRC0)
-   26. [Rclone](./v2m/26) / [video](https://youtu.be/mnDYJ2ZpdxU)
-   27. [Portainer](./v2m/27) / [video](https://youtu.be/TSot5AnS-mk)
-   28. [GeoIP](./v2m/28) / [video](https://youtu.be/ZpEfjsJamcU)
-   29. [Swarmpit](./v2m/29) / [video](https://youtu.be/f2gmhiYBW8Y)
-   30. [Kompose](./v2m/30) / [video](https://youtu.be/JHdnasrZKyU)
-   31. [Cert-manager en Kubernetes](./v2m/31) / [video](https://youtu.be/ZKrC261Rxqo)
-   32. [Nginx-Proxy-Manager](./v2m/32) / [video](https://youtu.be/0n9DLj2ndo4)
-   33. [Gemini](./v2m/33) / [video](https://youtu.be/nSdzAcCXLxE)
-   34. [ImagePullSecret-Patcher](./v2m/34) / [video](https://youtu.be/e_cBicVb0E0)
-   35. [MinIO](./v2m/35) / [video](https://youtu.be/_QHUR2VFmfo)
-   36. [Gaming en Kubernetes - Additronk8s](./v2m/36) / [video](https://youtu.be/9c3Cff4xb1k)
-   37. [Whoogle](./v2m/37) / [video](https://youtu.be/MrFC8dYmjg8)
-   38. [MetalLB](./v2m/38) / [video](https://youtu.be/ZuRrpD3hL5I)
-   39. [Fluent-bit](./v2m/39) / [video](https://youtu.be/bwoxefs057g)
+   10. [kubectl tips](./v2m/11) / [video](https://youtu.be/caHsjOmrr2s)
+   11. [kind](./v2m/12) / [video](https://youtu.be/8Wjzpywdjyc)
+   12. [Telepresence](./v2m/13) / [video](https://youtu.be/MipT55DJFec)
+   13. [Diferencia entre RUN, CMD y ENTRYPOINT](./v2m/14) / [video](https://youtu.be/6ZnecM3ipu4)
+   14. [MySQL Operator](./v2m/15) / [video](https://youtu.be/2i5t6bfgWvE)
+   15. [Supervisord](./v2m/16) / [video](https://youtu.be/mfXnqHRT8hI)
+   16. [Popeye](./v2m/17) / [video](https://youtu.be/xKGPN_47qxM)
+   17. [Init Containers](./v2m/18) / [video](https://youtu.be/a03oHbGUef4)
+   18. [Netdata](./v2m/19) / [video](https://youtu.be/bGyMLNRBlQ0)
+   19. [Matrix](./v2m/20) / [video](https://youtu.be/ZiVQalt5xhk)
+   20. [Kubernetes Dashboard](./v2m/21) / [video](https://youtu.be/B5r-_HHX31s)
+   21. [Netatalk / TimeMachine opensource](./v2m/22) / [video](https://youtu.be/LhlTG8LJ89Q)
+   22. [WireGuard](./v2m/23) / [video](https://youtu.be/G_Pv9XEzfUY)
+   23. [Cronopete](./v2m/24) / [video](https://youtu.be/DywhgMht2jQ)
+   24. [Vsftpd](./v2m/25) / [video](https://youtu.be/y9sPUF7vRC0)
+   25. [Rclone](./v2m/26) / [video](https://youtu.be/mnDYJ2ZpdxU)
+   26. [Portainer](./v2m/27) / [video](https://youtu.be/TSot5AnS-mk)
+   27. [GeoIP](./v2m/28) / [video](https://youtu.be/ZpEfjsJamcU)
+   28. [Swarmpit](./v2m/29) / [video](https://youtu.be/f2gmhiYBW8Y)
+   29. [Kompose](./v2m/30) / [video](https://youtu.be/JHdnasrZKyU)
+   30. [Cert-manager en Kubernetes](./v2m/31) / [video](https://youtu.be/ZKrC261Rxqo)
+   31. [Nginx-Proxy-Manager](./v2m/32) / [video](https://youtu.be/0n9DLj2ndo4)
+   32. [Gemini](./v2m/33) / [video](https://youtu.be/nSdzAcCXLxE)
+   33. [ImagePullSecret-Patcher](./v2m/34) / [video](https://youtu.be/e_cBicVb0E0)
+   34. [MinIO](./v2m/35) / [video](https://youtu.be/_QHUR2VFmfo)
+   35. [Gaming en Kubernetes - Additronk8s](./v2m/36) / [video](https://youtu.be/9c3Cff4xb1k)
+   36. [Whoogle](./v2m/37) / [video](https://youtu.be/MrFC8dYmjg8)
+   37. [MetalLB](./v2m/38) / [video](https://youtu.be/ZuRrpD3hL5I)
+   38. [Fluent-bit](./v2m/39) / [video](https://youtu.be/bwoxefs057g)
 
 6. Terraform
    1. [Terraform 1](./terraform/1) / [video](https://youtu.be/1itPqkU8XZw)
